@@ -2,7 +2,7 @@
 
 Tech stack
  
-<ol>
+<ul>
   <li>Node js</li>
   <li>Express</li>
-</ol> 
+</ul> 
